@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="duke_frontier_s_shields" name="Frontier S Shields" description="Adds Mk2 and Mk3 S Frontier shields to the game." author="TheDukeofErl" version="100" date="2025-11-20" save="0">
+    <dependency id="ego_dlc_timelines" optional="false" name="Timelines" />
+</content>

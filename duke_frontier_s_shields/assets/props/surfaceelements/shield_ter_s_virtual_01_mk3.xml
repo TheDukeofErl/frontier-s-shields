@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<components>
+  <component name="shield_ter_s_virtual_01_mk3" class="shieldgenerator">
+    <connections>
+      <connection name="ParentConnection" tags="advanced component shield small" />
+    </connections>
+  </component>
+</components>
