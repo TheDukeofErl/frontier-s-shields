@@ -4,7 +4,7 @@
     <component ref="shield_ter_s_virtual_01_mk3" />
     <icon video="shield_ter_s_virtual_01_mk1_video" />
     <properties>
-      <identification name="{20106,1244}" basename="{20106,1221}" shortname="{20106,1235}" makerrace="terran" description="{20106,1222}" mk="1" />
+      <identification name="{20106,1244}" basename="{20106,1221}" shortname="{20106,1245}" makerrace="terran" description="{20106,1222}" mk="3" />
       <recharge max="1482" rate="242" delay="11.5" />
       <hull integrated="1" />
     </properties>
