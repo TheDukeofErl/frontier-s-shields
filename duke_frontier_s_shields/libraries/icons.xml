@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE icons SYSTEM "../../../libraries/icons.dtd" >
+<icons>
+  <icon name="upgrade_shield_ter_s_virtual_01_mk2_macro" texture="extensions\ego_dlc_timelines\assets\textures\ui\upgrades\shield_ter_s_virtual_01_mk1_macro.tga" height="256" width="256"></icon>
+  <icon name="upgrade_shield_ter_s_virtual_01_mk3_macro" texture="extensions\ego_dlc_timelines\assets\textures\ui\upgrades\shield_ter_s_virtual_01_mk1_macro.tga" height="256" width="256"></icon>
+</icons>
